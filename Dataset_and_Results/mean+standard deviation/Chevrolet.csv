@@ -1,0 +1,58 @@
+Manufacturer,Year,Model,count,S.D,Mean
+Chevrolet,2016,Aveo,1,0,200000
+Chevrolet,2016,Cruze,1,0,1900000
+Chevrolet,2016,Enjoy,2,7778,145500
+Chevrolet,2016,Beat,4,32264,456250
+Chevrolet,2016,Captiva,1,0,1300000
+Chevrolet,2016,Spark,1,0,165000
+Chevrolet,2016,Sail Uva,1,0,385000
+Chevrolet,2016,Tavera,6,172692,670833
+Chevrolet,2010,Aveo,18,18206,235388
+Chevrolet,2010,Aveo U Va,9,20139,190333
+Chevrolet,2010,Cruze,147,8815,557850
+Chevrolet,2010,Optra Magnum,9,28214,328777
+Chevrolet,2010,Beat,104,3632,216461
+Chevrolet,2010,Captiva,15,36030,717333
+Chevrolet,2010,Spark,52,5850,175250
+Chevrolet,2010,Tavera,14,36942,437214
+Chevrolet,2011,Aveo,8,36350,286875
+Chevrolet,2011,Aveo U Va,3,27175,194000
+Chevrolet,2011,Cruze,97,13649,712309
+Chevrolet,2011,Enjoy,1,0,230000
+Chevrolet,2011,Optra Magnum,11,35336,441818
+Chevrolet,2011,Beat,164,4821,261585
+Chevrolet,2011,Captiva,25,43663,979040
+Chevrolet,2011,Optra Srv,1,0,250000
+Chevrolet,2011,Spark,67,4542,198300
+Chevrolet,2011,Tavera,22,19775,479318
+Chevrolet,2011,Optra,1,0,139000
+Chevrolet,2012,Aveo,3,53541,366666
+Chevrolet,2012,Cruze,47,29665,874744
+Chevrolet,2012,Enjoy,1,0,225000
+Chevrolet,2012,Optra Magnum,2,120208,385000
+Chevrolet,2012,Beat,151,4832,278411
+Chevrolet,2012,Captiva,5,100099,979000
+Chevrolet,2012,Spark,13,10254,204230
+Chevrolet,2012,Sail Uva,3,52796,395000
+Chevrolet,2012,Tavera,31,18014,529838
+Chevrolet,2013,Enjoy,47,13147,467697
+Chevrolet,2013,Cruze,19,42159,956315
+Chevrolet,2013,Sail,17,26732,434352
+Chevrolet,2013,Beat,50,7731,331890
+Chevrolet,2013,Captiva,1,0,1575000
+Chevrolet,2013,Spark,6,18609,269500
+Chevrolet,2013,Sail Uva,22,21315,418640
+Chevrolet,2013,Tavera,16,30288,674187
+Chevrolet,2014,Enjoy,20,25307,540950
+Chevrolet,2014,Cruze,7,102352,1198142
+Chevrolet,2014,Sail,7,43847,469999
+Chevrolet,2014,Beat,27,12786,364662
+Chevrolet,2014,Spark,1,0,315000
+Chevrolet,2014,Sail Uva,4,73119,448750
+Chevrolet,2014,Tavera,21,19540,756285
+Chevrolet,2015,Cruze,5,77055,1600000
+Chevrolet,2015,Enjoy,6,111503,600666
+Chevrolet,2015,Sail,3,131956,535000
+Chevrolet,2015,Beat,7,18103,411999
+Chevrolet,2015,Sail Uva,1,0,398000
+Chevrolet,2015,Tavera,9,25831,812777

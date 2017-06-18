@@ -1,0 +1,55 @@
+Manufacturer,Year,Model,count,S.D,Mean
+Mercedes-Benz,2016,Cla Class,2,2054145,1647500
+Mercedes-Benz,2016,C Class,1,0,4445000
+Mercedes-Benz,2016,A Class,3,964410,1665000
+Mercedes-Benz,2016,Gl Class,6,1195714,5716666
+Mercedes-Benz,2010,C Class,26,46554,1387225
+Mercedes-Benz,2010,E Class,35,101577,2143457
+Mercedes-Benz,2010,S Class,4,479823,3422499
+Mercedes-Benz,2010,M Class,1,0,2800000
+Mercedes-Benz,2010,Cls,1,0,2590000
+Mercedes-Benz,2010,Slk Class,1,0,3245000
+Mercedes-Benz,2010,Ml Class,1,0,2500000
+Mercedes-Benz,2011,C Class,25,54019,1675164
+Mercedes-Benz,2011,E Class,27,67060,2216259
+Mercedes-Benz,2011,M Class,5,348231,3468200
+Mercedes-Benz,2011,S Class,6,148469,3631666
+Mercedes-Benz,2011,Cls,1,0,2800000
+Mercedes-Benz,2011,Slk Class,4,189067,3968750
+Mercedes-Benz,2011,Gl Class,1,0,4525000
+Mercedes-Benz,2012,B Class,2,106773,1475500
+Mercedes-Benz,2012,C Class,100,17910,1798769
+Mercedes-Benz,2012,E Class,81,17504,2178026
+Mercedes-Benz,2012,G Class,3,248327,4166666
+Mercedes-Benz,2012,S Class,2,1831406,6205000
+Mercedes-Benz,2012,M Class,5,484123,4024999
+Mercedes-Benz,2012,Slk Class,2,141421,4900000
+Mercedes-Benz,2012,Gl Class,1,0,3500000
+Mercedes-Benz,2013,B Class,7,155775,1989285
+Mercedes-Benz,2013,C Class,167,15612,2320562
+Mercedes-Benz,2013,E Class,17,131534,3121176
+Mercedes-Benz,2013,S Class,1,0,5200000
+Mercedes-Benz,2013,M Class,7,173855,4269285
+Mercedes-Benz,2013,A Class,9,108773,1980555
+Mercedes-Benz,2013,Cls,1,0,9600000
+Mercedes-Benz,2013,Slk Class,1,0,4999999
+Mercedes-Benz,2013,Ml Class,3,285773,3233333
+Mercedes-Benz,2013,Gl Class,2,388908,6525000
+Mercedes-Benz,2014,C Class,16,104543,2872812
+Mercedes-Benz,2014,E Class,8,216135,3730625
+Mercedes-Benz,2014,S Class,1,0,9500000
+Mercedes-Benz,2014,M Class,3,384192,4908333
+Mercedes-Benz,2014,A Class,9,54808,2071777
+Mercedes-Benz,2014,Slk Class,1,0,9000000
+Mercedes-Benz,2014,Ml Class,3,468726,4721666
+Mercedes-Benz,2014,Gl Class,6,794480,4350000
+Mercedes-Benz,2015,Cls Class,1,0,6700000
+Mercedes-Benz,2015,Cla Class,2,569220,3397500
+Mercedes-Benz,2015,C Class,10,139311,3694800
+Mercedes-Benz,2015,E Class,9,57622,4132222
+Mercedes-Benz,2015,G Class,2,1937260,4430150
+Mercedes-Benz,2015,M Class,1,0,4900000
+Mercedes-Benz,2015,S Class,2,919238,11150000
+Mercedes-Benz,2015,A Class,2,282842,2200000
+Mercedes-Benz,2015,Ml Class,1,0,4250000
+Mercedes-Benz,2015,Gl Class,8,844280,4606875

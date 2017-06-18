@@ -1,0 +1,119 @@
+COMPANY NAME,CAR NAME,AVG. ON-ROAD PRICE
+Audi,Audi A3 ,3201749.75
+Audi,Audi Q3 ,3685599.8
+Audi,Audi A4 ,4074333.333
+Audi,Audi Q5 ,5298000
+Audi,Audi A6 ,5387000
+Audi,Audi TT ,6492000
+Audi,Audi Q7 ,7839999.5
+Audi,Audi A8 L ,14720000
+Audi,Audi R8 ,26100000
+BMW,BMW X1 ,3634750
+BMW,BMW 1 Series ,3111000
+BMW,BMW 3 Series ,5390857
+BMW,BMW Gran Turismo,4656666.667
+BMW,BMW X3 ,5510500
+BMW,BMW 5 Series ,5899500
+BMW,BMW X5 ,8876666.667
+BMW,BMW Z4 ,7829000
+BMW,BMW 7 Series ,13628571.43
+BMW,BMW 6 Series ,13933333.33
+BMW,BMW X6 ,14550000
+Chevrolet,Chevrolet Spark ,402000
+Chevrolet,Chevrolet Beat ,524874.625
+Chevrolet,Chevrolet Sail ,692625
+Chevrolet,Chevrolet Enjoy ,713000
+Chevrolet,Chevrolet Tavera ,958333.2222
+Chevrolet,Chevrolet Cruze ,1592500
+Datsun,Datsun Redi GO ,314666.6667
+Fiat,Fiat Punto Evo ,686750
+Fiat,Fiat Linea Classic,747333.3333
+Fiat,Fiat Linea ,924599.8
+Ford,Ford Figo ,618266.6667
+Ford,Ford Figo Aspire ,685000
+Ford,Ford EcoSport ,936649.85
+Ford,Ford Endeavour ,2788000
+Honda,Honda Brio ,578500
+Honda,Honda Amaze ,733199.9333
+Honda,Honda Jazz ,775833.1667
+Honda,Honda Mobilio ,1036100
+Honda,Honda City ,1172909.091
+Honda,Honda CRV ,2502000
+Honda,Honda Accord ,4051000
+Hyundai,Hyundai Eon ,403999.9167
+Hyundai,Hyundai i10 ,483000
+Hyundai,Hyundai Grand i10 ,624250
+Hyundai,Hyundai Xcent ,690818.1818
+Hyundai,Hyundai Elite i20 ,764727.2727
+Hyundai,Hyundai Verna ,1067583.333
+Hyundai,Hyundai Elantra ,1665999.889
+Hyundai,Hyundai Santa Fe ,3139333.333
+Mahindra,Mahindra Thar ,673600
+Mahindra,Mahindra Bolero ,737157.8947
+Mahindra,Mahindra Verito Vibe CS ,703000
+Mahindra,Mahindra Verito ,997999.8333
+Mahindra,Mahindra TUV ,881555.4444
+Mahindra,Mahindra Xylo ,965285.5714
+Mahindra,Mahindra Scorpio ,1234764.706
+Mahindra,Mahindra XUV500 ,1598736.737
+Maruti Suzuki,Maruti Suzuki Alto 800 ,325700
+Maruti Suzuki,Maruti Suzuki Omni ,286000
+Maruti Suzuki,Maruti Suzuki Alto ,391599.9
+Maruti Suzuki,Maruti Suzuki Eeco ,394799.8
+Maruti Suzuki,Maruti Suzuki Celerio ,491571.2857
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 ,495249.6667
+Maruti Suzuki,Maruti Suzuki Swift ,623400
+Maruti Suzuki,Maruti Suzuki Baleno ,728454.5455
+Maruti Suzuki,Maruti Suzuki Swift Dzire ,696769.2308
+Maruti Suzuki,Maruti Suzuki Gypsy ,659500
+Maruti Suzuki,Maruti Suzuki Ertiga ,836142.8571
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ,840999.5
+Maruti Suzuki,Maruti Suzuki Ciaz ,932307.5385
+Mercedes-Benz,Mercedes-Benz A Class ,2870750
+Mercedes-Benz,Mercedes-Benz B Class ,4159750
+Mercedes-Benz,Mercedes-Benz CLA class,3466000
+Mercedes-Benz,Mercedes-Benz E Class ,6312000
+Mercedes-Benz,Mercedes-Benz C Class,6184000
+Mercedes-Benz,Mercedes-Benz CLS ,7818000
+Mercedes-Benz,Mercedes-Benz S Class ,38337500
+Mercedes-Benz,Mercedes-Benz G Class ,21600000
+Mercedes-Benz,Mercedes-Benz M Class ,25500000
+Mitsubishi,Mitsubishi Pajero Sport ,2794333.333
+Nissan,Nissan Micra Active ,502666.6667
+Nissan,Nissan Micra ,673500
+Nissan,Nissan Sunny ,962000
+Nissan,Nissan Terrano ,1199400
+Renault,Renault Kwid ,375300
+Renault,Renault Pulse ,620000
+Renault,Renault Scala ,896999.6667
+Renault,Renault Lodgy ,1029499.8
+Renault,Renault Duster ,1137933.2
+Renault,Renault Fluence ,1580500
+Renault,Renault Koleos ,2647000
+Skoda,Skoda Rapid ,1067499.9
+Skoda,Skoda Octavia ,2049099.8
+Skoda,Skoda Yeti ,2368000
+Skoda,Skoda Superb ,2887400
+Tata,Tata Nano ,289000
+Tata,Tata Indica V2 ,502000
+Tata,Tata Venture ,542000
+Tata,Tata Indica eV2 ,530499.5
+Tata,Tata Zest ,700100
+Tata,Tata Indigo eCS ,617200
+Tata,Tata Sumo Gold ,757571.4286
+Tata,Tata Safari ,1039999.5
+Tata,Tata Xenon XT ,1068500
+Tata,Tata Safari Storme ,1333250
+Tata,Tata Aria ,1497000
+Toyota,Toyota Etios Liva ,668000
+Toyota,Toyota Etios ,807166.6667
+Toyota,Toyota Corolla Altis ,1648222.111
+Toyota,Toyota Innova ,1665812.438
+Toyota,Toyota Fortuner ,2903000
+Toyota,Toyota Camry ,3284000
+Toyota,Toyota Prius ,4224000
+Volkswagen,Volkswagen Polo ,772199.9
+Volkswagen,Volkswagen Cross Polo ,840999.5
+Volkswagen,Volkswagen Vento ,1059700
+Volkswagen,Volkswagen Jetta ,1776999.833
+Volkswagen,Volkswagen Beetle ,2943000

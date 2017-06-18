@@ -1,0 +1,131 @@
+Manufacturer,Year,Model,count,S.D,Mean
+Maruti Suzuki,2016,Zen Estilo,1,0,230000
+Maruti Suzuki,2016,Celerio,10,43471,459200
+Maruti Suzuki,2016,Swift Dzire,39,34943,628538
+Maruti Suzuki,2016,Vitara Brezza,4,267870,870500
+Maruti Suzuki,2016,A Star,1,0,160000
+Maruti Suzuki,2016,Ertiga,2,350017,577500
+Maruti Suzuki,2016,Eeco,14,22402,363142
+Maruti Suzuki,2016,Wagon R,25,31530,338479
+Maruti Suzuki,2016,Sx4,2,254558,500000
+Maruti Suzuki,2016,Esteem,2,5374,66199
+Maruti Suzuki,2016,Baleno,11,67296,701909
+Maruti Suzuki,2016,Grand Vitara,3,20314,1101333
+Maruti Suzuki,2016,Wagon R 1.0,5,5755,478000
+Maruti Suzuki,2016,Alto 800,14,14916,346785
+Maruti Suzuki,2016,800,6,37594,123333
+Maruti Suzuki,2016,Alto,14,29070,297134
+Maruti Suzuki,2016,Swift,23,42659,550413
+Maruti Suzuki,2016,Wagon R Stingray,1,0,500000
+Maruti Suzuki,2016,Ritz,14,43444,492071
+Maruti Suzuki,2016,Omni,6,29645,245833
+Maruti Suzuki,2016,Ciaz,11,51835,1001697
+Maruti Suzuki,2016,Wagon R Duo,4,105237,337500
+Maruti Suzuki,2010,Zen Estilo,41,6846,209646
+Maruti Suzuki,2010,Swift Dzire,196,5452,363321
+Maruti Suzuki,2010,A Star,37,6648,234324
+Maruti Suzuki,2010,1000,3,19646,213000
+Maruti Suzuki,2010,Eeco,127,2562,220330
+Maruti Suzuki,2010,Wagon R,161,2811,244018
+Maruti Suzuki,2010,Sx4,68,7483,331382
+Maruti Suzuki,2010,Grand Vitara,1,0,580000
+Maruti Suzuki,2010,Wagon R 1.0,21,9652,237000
+Maruti Suzuki,2010,Alto 800,3,27613,180000
+Maruti Suzuki,2010,800,2,63639,105000
+Maruti Suzuki,2010,Alto,142,3526,192140
+Maruti Suzuki,2010,Swift,240,4819,340472
+Maruti Suzuki,2010,Wagon R Stingray,1,0,200000
+Maruti Suzuki,2010,Ritz,117,5912,299258
+Maruti Suzuki,2010,Omni,43,5544,157883
+Maruti Suzuki,2010,Wagon R Duo,5,29046,206200
+Maruti Suzuki,2011,Zen Estilo,40,6306,213437
+Maruti Suzuki,2011,Swift Dzire,346,3348,369899
+Maruti Suzuki,2011,Zen,1,0,215000
+Maruti Suzuki,2011,A Star,42,6524,278357
+Maruti Suzuki,2011,Gypsy,2,141421,400000
+Maruti Suzuki,2011,1000,4,14129,204250
+Maruti Suzuki,2011,Kizashi,5,87364,619000
+Maruti Suzuki,2011,Eeco,83,4922,227759
+Maruti Suzuki,2011,Wagon R,117,3945,264760
+Maruti Suzuki,2011,Sx4,189,4520,397817
+Maruti Suzuki,2011,Esteem,1,0,299999
+Maruti Suzuki,2011,Grand Vitara,1,0,560000
+Maruti Suzuki,2011,Wagon R 1.0,66,4931,280469
+Maruti Suzuki,2011,Alto 800,2,14142,215000
+Maruti Suzuki,2011,800,1,0,80000
+Maruti Suzuki,2011,Alto,143,3119,214251
+Maruti Suzuki,2011,Swift,174,6266,399372
+Maruti Suzuki,2011,Ritz,134,6561,332820
+Maruti Suzuki,2011,Omni,45,5164,175111
+Maruti Suzuki,2011,Wagon R Duo,8,12929,326125
+Maruti Suzuki,2012,Zen Estilo,5,52398,312000
+Maruti Suzuki,2012,Swift Dzire,227,5016,466657
+Maruti Suzuki,2012,Zen,1,0,235000
+Maruti Suzuki,2012,A Star,16,15255,301437
+Maruti Suzuki,2012,Gypsy,1,0,450000
+Maruti Suzuki,2012,Ertiga,191,5107,590091
+Maruti Suzuki,2012,1000,3,7240325,6176666
+Maruti Suzuki,2012,Eeco,65,5717,255230
+Maruti Suzuki,2012,Wagon R,87,5043,303512
+Maruti Suzuki,2012,Sx4,34,16125,455234
+Maruti Suzuki,2012,Baleno,1,0,375000
+Maruti Suzuki,2012,Wagon R 1.0,74,6151,313916
+Maruti Suzuki,2012,Alto 800,18,8819,231166
+Maruti Suzuki,2012,800,1,0,200000
+Maruti Suzuki,2012,Alto,116,3803,224863
+Maruti Suzuki,2012,Swift,253,5152,461070
+Maruti Suzuki,2012,Ritz,87,46773,418137
+Maruti Suzuki,2012,Omni,30,7494,202290
+Maruti Suzuki,2012,Wagon R Duo,8,36686,342500
+Maruti Suzuki,2013,Zen Estilo,5,16955,260000
+Maruti Suzuki,2013,Swift Dzire,245,4609,536514
+Maruti Suzuki,2013,Celerio,1,0,450000
+Maruti Suzuki,2013,A Star,7,16010,326428
+Maruti Suzuki,2013,Gypsy,2,201525,382500
+Maruti Suzuki,2013,Ertiga,112,8520,696071
+Maruti Suzuki,2013,Eeco,58,6017,297454
+Maruti Suzuki,2013,Wagon R,72,5268,335888
+Maruti Suzuki,2013,Sx4,11,37130,482727
+Maruti Suzuki,2013,Wagon R 1.0,45,5924,340377
+Maruti Suzuki,2013,Alto 800,88,3612,249874
+Maruti Suzuki,2013,800,4,30675,226250
+Maruti Suzuki,2013,Alto,19,7209,252736
+Maruti Suzuki,2013,Swift,192,6031,494469
+Maruti Suzuki,2013,Versa,1,0,650000
+Maruti Suzuki,2013,Wagon R Stingray,2,14142,390000
+Maruti Suzuki,2013,Ritz,44,12371,450443
+Maruti Suzuki,2013,Omni,15,14683,226000
+Maruti Suzuki,2013,Wagon R Duo,2,21920,364500
+Maruti Suzuki,2014,Zen Estilo,1,0,265000
+Maruti Suzuki,2014,Celerio,54,5454,434074
+Maruti Suzuki,2014,Swift Dzire,135,8594,572740
+Maruti Suzuki,2014,Ertiga,69,9825,742463
+Maruti Suzuki,2014,Eeco,32,6176,319781
+Maruti Suzuki,2014,Wagon R,44,7336,375295
+Maruti Suzuki,2014,Sx4,3,125020,601663
+Maruti Suzuki,2014,Wagon R 1.0,46,4681,393608
+Maruti Suzuki,2014,Alto 800,66,4189,263537
+Maruti Suzuki,2014,Alto,10,16479,314200
+Maruti Suzuki,2014,Swift,207,7478,494169
+Maruti Suzuki,2014,Wagon R Stingray,11,13089,375181
+Maruti Suzuki,2014,Ritz,23,17892,504826
+Maruti Suzuki,2014,Omni,13,7910,254923
+Maruti Suzuki,2014,Ciaz,12,21680,787916
+Maruti Suzuki,2015,Swift Dzire,155,7639,604716
+Maruti Suzuki,2015,Celerio,46,7668,471695
+Maruti Suzuki,2015,Ertiga,63,11903,773739
+Maruti Suzuki,2015,Kizashi,1,0,350000
+Maruti Suzuki,2015,Eeco,34,8509,359352
+Maruti Suzuki,2015,Wagon R,61,7076,396772
+Maruti Suzuki,2015,Baleno,7,112552,720000
+Maruti Suzuki,2015,Wagon R 1.0,14,11205,411500
+Maruti Suzuki,2015,Alto 800,43,5659,307558
+Maruti Suzuki,2015,800,1,0,300000
+Maruti Suzuki,2015,Alto,18,11085,335833
+Maruti Suzuki,2015,Swift,82,9788,586329
+Maruti Suzuki,2015,Wagon R Stingray,1,0,450000
+Maruti Suzuki,2015,Versa,2,601040,625000
+Maruti Suzuki,2015,Ritz,16,35936,495250
+Maruti Suzuki,2015,Omni,20,10562,251400
+Maruti Suzuki,2015,Ciaz,44,16593,861330
+Maruti Suzuki,2015,Wagon R Duo,4,30550,370000

@@ -1,0 +1,48 @@
+Manufacturer,Year,Model,count,S.D,Mean
+Toyota,2016,Innova,8,257040,1759375
+Toyota,2016,Corolla Altis,1,0,650000
+Toyota,2016,Fortuner,4,300924,2550000
+Toyota,2016,Etios Liva,5,80258,620800
+Toyota,2016,Etios,10,87186,604499
+Toyota,2020,Qualis,1,0,320000
+Toyota,2010,Innova,174,10379,849215
+Toyota,2010,Land Cruiser Prado,2,2050609,5050000
+Toyota,2010,Corolla Altis,56,17654,583370
+Toyota,2010,Fortuner,89,11565,1299323
+Toyota,2010,Camry,4,117186,694250
+Toyota,2010,Etios Liva,1,0,38500
+Toyota,2010,Etios,1,0,325000
+Toyota,2010,Corolla,1,0,389000
+Toyota,2011,Innova,167,12906,963161
+Toyota,2011,Land Cruiser Prado,1,0,4800000
+Toyota,2011,Fortuner,44,23985,1441477
+Toyota,2011,Corolla Altis,98,8413,681725
+Toyota,2011,Prius,1,0,1299999
+Toyota,2011,Etios Liva,34,9717,329163
+Toyota,2011,Camry,1,0,925000
+Toyota,2011,Etios,184,4927,337024
+Toyota,2011,Qualis,1,0,665000
+Toyota,2012,Innova,176,13496,1048664
+Toyota,2012,Land Cruiser Prado,1,0,5500000
+Toyota,2012,Fortuner,61,22985,1791723
+Toyota,2012,Corolla Altis,20,25093,769900
+Toyota,2012,Etios Liva,49,10139,418714
+Toyota,2012,Camry,2,0,1600000
+Toyota,2012,Etios,71,9911,477450
+Toyota,2012,Qualis,1,0,301000
+Toyota,2013,Innova,216,12005,1124212
+Toyota,2013,Fortuner,53,35660,2098056
+Toyota,2013,Corolla Altis,8,38133,842375
+Toyota,2013,Etios Liva,22,16350,460000
+Toyota,2013,Etios,47,11514,495787
+Toyota,2014,Innova,71,21778,1308014
+Toyota,2014,Corolla Altis,12,88388,1315083
+Toyota,2014,Fortuner,52,31281,2332384
+Toyota,2014,Etios Liva,11,45751,477727
+Toyota,2014,Etios,29,19377,622413
+Toyota,2014,Qualis,1,0,390000
+Toyota,2015,Innova,43,24493,1481883
+Toyota,2015,Corolla Altis,6,99897,1513333
+Toyota,2015,Fortuner,20,137297,2510750
+Toyota,2015,Etios Liva,11,31974,559454
+Toyota,2015,Etios,33,40022,715878
